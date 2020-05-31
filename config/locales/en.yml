@@ -263,7 +263,7 @@ en:
   footer:
     legal: Legal
     privpolicy: Privacy Policy
-    powered_by: Powered by %{href}.
+    powered_by: Powered by Darpan.
   forgot_password:
     subtitle: Forgot Password
     email: Email
@@ -293,7 +293,7 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "%{href} is a simple front-end for your Darpan eClass server. You can create your own rooms to host sessions, or join others using a short and convenient link."
+    about: "Darpan is a simple front-end for your Darpan eClass server. You can create your own rooms to host sessions, or join others using a short and convenient link."
     welcome: Welcome to Darpan.
     video: Watch our tutorial on using our platform
     upgrade: Show me how to upgrade to 2.0!
@@ -575,12 +575,12 @@ en:
     title: Sign up
     with: Sign up with %{provider}
   terms:
-    accept: I accept the %{href}
+    accept: I accept the Darpan
     accept_existing: I accept the terms and conditions
     title: Terms and Conditions
   test_install: >
     This deployment is using a pre-configured testing server, you should replace this with your own.
-    For details, see the %{href}.
+    For details, visit www.darpan.link.
   update: Update
   verify:
     accept: Verify
